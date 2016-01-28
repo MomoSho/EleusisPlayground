@@ -1,7 +1,7 @@
 # EleusisPlayground
 This is just a collection of various mini-math game ideas and mechanics
 
-### Under Grid
+### Under the "Grid" folder
 the .pde file can be run by 
   1. downloading Processing from https://processing.org/download/
   2. downloading Grid.pde
